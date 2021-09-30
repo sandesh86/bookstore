@@ -1,0 +1,164 @@
+2021-09-30 20:10:43,731 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookStoreControllerTest using Java 11.0.12 on acer with PID 11028 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:10:43,734 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:10:43,741 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:10:50,693 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:10:54,066 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookStoreControllerTest in 11.062 seconds (JVM running for 13.421)
+2021-09-30 20:10:54,072 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:10:54,401 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:10:54,542 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:10:56,008 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 0%
+2021-09-30 20:10:56,011 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
+2021-09-30 20:11:48,585 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookStoreControllerTest using Java 11.0.12 on acer with PID 7028 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:11:48,588 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:11:48,592 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:11:57,467 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:12:00,777 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookStoreControllerTest in 13.284 seconds (JVM running for 17.624)
+2021-09-30 20:12:00,783 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:12:00,915 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:12:01,003 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:14:40,540 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookStoreControllerTest using Java 11.0.12 on acer with PID 11040 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:14:40,543 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:14:40,547 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:14:48,308 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:14:50,699 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookStoreControllerTest in 10.885 seconds (JVM running for 13.25)
+2021-09-30 20:14:50,703 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:14:50,800 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:14:50,861 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:14:51,559 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 10%
+2021-09-30 20:14:51,561 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
+2021-09-30 20:15:02,300 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookStoreControllerTest using Java 11.0.12 on acer with PID 1144 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:15:02,302 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:15:02,311 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:15:09,193 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:15:11,628 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookStoreControllerTest in 10.09 seconds (JVM running for 12.567)
+2021-09-30 20:15:11,634 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:15:11,779 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:15:11,870 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:15:12,483 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 10%
+2021-09-30 20:15:12,485 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
+2021-09-30 20:15:45,362 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookStoreControllerTest using Java 11.0.12 on acer with PID 1220 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:15:45,366 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:15:45,384 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:15:52,707 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:15:55,520 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookStoreControllerTest in 10.934 seconds (JVM running for 13.456)
+2021-09-30 20:15:55,526 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:15:55,638 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:15:55,710 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:15:56,334 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 10%
+2021-09-30 20:15:56,338 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
+2021-09-30 20:18:30,162 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookStoreControllerTest using Java 11.0.12 on acer with PID 10896 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:18:30,164 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:18:30,170 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:18:37,214 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:18:39,811 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookStoreControllerTest in 10.414 seconds (JVM running for 12.906)
+2021-09-30 20:18:39,817 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:18:39,916 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:18:39,979 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:20:08,160 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookStoreControllerTest using Java 11.0.12 on acer with PID 6440 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:20:08,163 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:20:08,170 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:20:15,174 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:20:17,718 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookStoreControllerTest in 10.353 seconds (JVM running for 12.786)
+2021-09-30 20:20:17,723 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:20:17,855 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:20:17,909 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:21:38,215 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookStoreControllerTest using Java 11.0.12 on acer with PID 3300 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:21:38,218 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:21:38,222 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:21:45,937 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:21:48,632 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookStoreControllerTest in 11.214 seconds (JVM running for 13.71)
+2021-09-30 20:21:48,637 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:21:48,748 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:21:48,824 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:21:49,467 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 10%
+2021-09-30 20:21:49,470 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
+2021-09-30 20:35:24,879 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BooksServiceImplTest using Java 11.0.12 on acer with PID 1800 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:35:24,882 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:35:24,894 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:35:31,208 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:35:33,671 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BooksServiceImplTest in 9.554 seconds (JVM running for 11.346)
+2021-09-30 20:35:33,676 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:35:33,694 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:35:33,696 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:36:33,782 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BooksServiceImplTest using Java 11.0.12 on acer with PID 11244 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:36:33,786 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:36:33,791 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:36:40,142 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:36:42,896 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BooksServiceImplTest in 9.819 seconds (JVM running for 11.734)
+2021-09-30 20:36:42,901 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:36:42,926 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:36:42,929 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:36:43,053 INFO [main] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 10%
+2021-09-30 20:36:43,056 INFO [main] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
+2021-09-30 20:36:58,847 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookstoreApplicationTests using Java 11.0.12 on acer with PID 6332 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:36:58,862 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:36:58,875 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:37:09,660 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:37:12,925 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookstoreApplicationTests in 15.205 seconds (JVM running for 18.831)
+2021-09-30 20:37:12,935 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:37:13,121 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:37:13,219 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:37:13,736 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BooksServiceImplTest using Java 11.0.12 on acer with PID 6332 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:37:13,737 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:37:13,739 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:37:15,496 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:37:16,828 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BooksServiceImplTest in 3.162 seconds (JVM running for 22.735)
+2021-09-30 20:37:16,831 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:37:16,902 INFO [main] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 10%
+2021-09-30 20:37:16,905 INFO [main] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
+2021-09-30 20:37:17,132 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookStoreControllerTest using Java 11.0.12 on acer with PID 6332 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:37:17,132 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:37:17,135 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:37:19,308 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:37:20,809 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookStoreControllerTest in 3.735 seconds (JVM running for 26.715)
+2021-09-30 20:37:20,811 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:37:21,470 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 10%
+2021-09-30 20:37:21,473 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
+2021-09-30 20:58:28,863 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookstoreApplicationTests using Java 11.0.12 on acer with PID 6164 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:58:28,919 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:58:28,926 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:58:53,054 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:58:57,557 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookstoreApplicationTests in 30.641 seconds (JVM running for 35.876)
+2021-09-30 20:58:57,564 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:58:58,217 INFO [main] com.example.bookstore.loader.DataLoader@lambda$loadMetaData$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 20:58:58,417 INFO [main] com.example.bookstore.loader.DataLoader@lambda$loadMetaData$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 20:58:59,635 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookStoreControllerTest using Java 11.0.12 on acer with PID 6164 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:58:59,635 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:58:59,638 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:59:03,302 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:59:05,007 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookStoreControllerTest in 5.456 seconds (JVM running for 43.326)
+2021-09-30 20:59:05,010 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:59:06,374 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 10%
+2021-09-30 20:59:06,376 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
+2021-09-30 20:59:07,335 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BooksServiceImplTest using Java 11.0.12 on acer with PID 6164 (started by acer in D:\workspace\bookstore)
+2021-09-30 20:59:07,337 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 20:59:07,343 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 20:59:12,901 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 20:59:13,953 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BooksServiceImplTest in 6.726 seconds (JVM running for 52.271)
+2021-09-30 20:59:13,956 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 20:59:14,049 INFO [main] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 10%
+2021-09-30 20:59:14,050 INFO [main] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
+2021-09-30 21:23:19,499 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookstoreApplicationTests using Java 11.0.12 on acer with PID 10552 (started by acer in D:\workspace\bookstore)
+2021-09-30 21:23:19,510 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 21:23:19,521 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 21:23:32,010 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 21:23:34,555 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookstoreApplicationTests in 15.788 seconds (JVM running for 17.587)
+2021-09-30 21:23:34,560 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 21:23:34,787 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 1,,My First Book,,Sandesh,,Fiction,,This is fantastic book,,232-3,22345-09-4,,123
+2021-09-30 21:23:34,837 INFO [main] com.example.bookstore.loader.DataLoader@lambda$0:50 - 2,,My Second Book,,Ghadle,,Comic,,This is awesome book,,435-6-87934-05-1,,234
+2021-09-30 21:23:35,423 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BooksServiceImplTest using Java 11.0.12 on acer with PID 10552 (started by acer in D:\workspace\bookstore)
+2021-09-30 21:23:35,424 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 21:23:35,426 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 21:23:36,776 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 21:23:37,817 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BooksServiceImplTest in 2.451 seconds (JVM running for 20.849)
+2021-09-30 21:23:37,819 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 21:23:37,860 INFO [main] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 10%
+2021-09-30 21:23:37,861 INFO [main] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
+2021-09-30 21:23:38,103 INFO [main] org.springframework.boot.StartupInfoLogger@logStarting:55 - Starting BookStoreControllerTest using Java 11.0.12 on acer with PID 10552 (started by acer in D:\workspace\bookstore)
+2021-09-30 21:23:38,103 DEBUG [main] org.springframework.boot.StartupInfoLogger@logStarting:56 - Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-09-30 21:23:38,105 INFO [main] org.springframework.boot.SpringApplication@logStartupProfileInfo:659 - No active profile set, falling back to default profiles: default
+2021-09-30 21:23:39,985 WARN [main] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration@openEntityManagerInViewInterceptor:219 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-30 21:23:41,128 INFO [main] org.springframework.boot.StartupInfoLogger@logStarted:61 - Started BookStoreControllerTest in 3.102 seconds (JVM running for 24.161)
+2021-09-30 21:23:41,130 INFO [main] com.example.bookstore.loader.DataLoader@loadMetaData:41 - Loading application data... {]
+2021-09-30 21:23:42,167 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: FICTION is 10%
+2021-09-30 21:23:42,168 INFO [http-nio-auto-1-exec-1] com.example.bookstore.loader.DataLoader@getDiscountedPrice:79 - Discount on type: COMIC is 0%
